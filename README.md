@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwadhotre09
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS with devops tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jspvishwanath@gmail.com
 - 😄 Pronouns: ...
